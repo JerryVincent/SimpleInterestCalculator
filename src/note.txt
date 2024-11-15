@@ -1,0 +1,7 @@
+To use material UI
+-install the dependencies for material ui from material ui websites.
+To create React projects using vite
+ -npm create vite@latest projectname
+ -to run it- npm run dev
+
+-To get the value of an input box based on an event use e.target.value
